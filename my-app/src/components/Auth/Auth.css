@@ -46,12 +46,6 @@
   align-items: flex-start;
 }
 
-.feature-icon {
-  font-size: 24px;
-  flex-shrink: 0;
-  opacity: 0.9;
-}
-
 .feature-item h3 {
   margin: 0 0 4px 0;
   font-size: 16px;

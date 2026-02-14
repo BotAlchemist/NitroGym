@@ -135,21 +135,18 @@ const SignUp = ({ onSwitchToLogin, onSignUpSuccess }) => {
           <p className="brand-tagline">Transform Your Body, Transform Your Life</p>
           <div className="brand-features">
             <div className="feature-item">
-              <span className="feature-icon">🎯</span>
               <div>
                 <h3>AI-Powered Plans</h3>
                 <p>Personalized workout and diet plans based on your BCA</p>
               </div>
             </div>
             <div className="feature-item">
-              <span className="feature-icon">📊</span>
               <div>
                 <h3>Track Progress</h3>
                 <p>Monitor your daily goals and achievements</p>
               </div>
             </div>
             <div className="feature-item">
-              <span className="feature-icon">💬</span>
               <div>
                 <h3>Real-Time Coaching</h3>
                 <p>Chat with AI coach throughout your journey</p>
